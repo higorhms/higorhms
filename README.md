@@ -6,7 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:higor_hms@outlook.com)](mailto:higor_hms@outlook.com)
 
 #### Hi! I'm a Full-Stack Developer, below are some technologies I have experience to work with. Take a look!
-
 - :heart: <b>Programming Languages</b>: 
   <a href="https://www.typescriptlang.org/"> TypeScript<a/>,
   <a href="https://www.javascript.com/"> JavaScript<a/>,
@@ -25,10 +24,15 @@
 - :black_heart: <b>Mobile</b>:
   <a href="https://reactnative.dev///"> React Native<a/>,
   <a href="https://redux.js.org/"> Redux<a/>.
-- :gear:<b>Cloud</b>: 
+- :gear: <b>Cloud</b>: 
   <a href="https://www.docker.com/"> Docker<a/>,
   <a href="https://aws.amazon.com/pt/s3/"> Amazon S3<a/>,
   <a href="https://aws.amazon.com/pt/ses/"> Amazon SES<a/>.
+- 🗄️ <b>Databases:</b>: 
+  <a href="https://www.postgresql.org/"> PostgreSQL<a/>,
+  <a href="https://www.mongodb.com/"> MongoDB<a/>,
+  <a href="https://redis.io/"> Redis<a/>,
+  <a href="https://www.oracle.com/database/technologies/112010-win64soft.html"> Oracle 11g<a/>.
     
 - :books: <b>What i'm studying?</b> 
   <a href="https://nextjs.org/">NextJS<a/>.
