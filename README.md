@@ -28,7 +28,7 @@
   <a href="https://www.docker.com/"> Docker<a/>,
   <a href="https://aws.amazon.com/pt/s3/"> Amazon S3<a/>,
   <a href="https://aws.amazon.com/pt/ses/"> Amazon SES<a/>.
-- 🗄️ <b>Databases:</b>: 
+- 🗄️ <b>Databases:</b>
   <a href="https://www.postgresql.org/"> PostgreSQL<a/>,
   <a href="https://www.mongodb.com/"> MongoDB<a/>,
   <a href="https://redis.io/"> Redis<a/>,
