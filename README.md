@@ -1,27 +1,35 @@
-# Higor Martins :man_technologist:
+## Higor Martins
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/higorhms)](https://github.com/higorhms)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higormartinsdasilva/)](https://www.linkedin.com/in/higormartinsdasilva/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522981658776&text=Olá!)](https://api.whatsapp.com/send?phone=5522981658776&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:higor_hms@outlook.com)](mailto:higor_hms@outlook.com)
 
-#### Hi! I'm a Full-Stack Developer, below are some technologies I have experience to work with. Take a look!
-- :heart: <b>Programming Languages</b>: 
+#### Hi! I'm a Full-Stack Developer, below are some technologies I'm used to work with. Take a look!
+
+![Javascript Badge](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript&logoColor=yellow)
+![React Badge](https://img.shields.io/badge/-React-black?style=black&logo=react&logoColor=61DAFB)
+![React Native Badge](https://img.shields.io/badge/-React_Native-black?&style=flat&logo=react&logoColor=61DAFB)
+![Expo Badge](https://img.shields.io/badge/-Expo-4C35E3?&style=flat&logo=expo&logoColor=white)
+![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Microsoft Azure Badge](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+
+- 💻 <b>Programming Languages</b>: 
   <a href="https://www.typescriptlang.org/"> TypeScript<a/>,
   <a href="https://www.javascript.com/"> JavaScript<a/>,
   <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"> Java<a/>.
   <a href="https://en.wikipedia.org/wiki/SQL"> SQL<a/>.
-- :blue_heart: <b>Front-End</b>: 
+- 💻 <b>Front-End</b>: 
   <a href="https://pt-br.reactjs.org//"> ReactJS<a/>, 
   <a href="https://redux.js.org/"> Redux<a/>, 
   <a href="https://graphql.org/"> GraphQL<a/>,
   <a href="https://jestjs.io/"> Jest<a/>.
-- :green_heart: <b>Back-End</b>: 
+- 💻 <b>Back-End</b>: 
   <a href="https://nodejs.org/en/"> Node.js<a/>,
   <a href="https://jestjs.io/"> Jest<a/>,
   <a href="https://graphql.org/"> GraphQL<a/>,
   <a href="https://spring.io/projects/spring-boot"> Spring Boot<a/>.
-- :black_heart: <b>Mobile</b>:
+- 💻 <b>Mobile</b>:
   <a href="https://reactnative.dev///"> React Native<a/>,
   <a href="https://redux.js.org/"> Redux<a/>.
 - :gear: <b>Cloud</b>: 
