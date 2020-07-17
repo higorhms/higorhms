@@ -7,41 +7,41 @@
 
 #### Hi! I'm a Full-Stack Developer, below are some technologies I'm used to work with. Take a look!
 
-![Javascript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
-![Javascript Badge](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=blue)
-![React Badge](https://img.shields.io/badge/-React-black?style=black&logo=react&logoColor=61DAFB)
-![React Native Badge](https://img.shields.io/badge/-React_Native-black?&style=flat&logo=react&logoColor=61DAFB)
-![Expo Badge](https://img.shields.io/badge/-Expo-4C35E3?&style=flat&logo=expo&logoColor=white)
-![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Microsoft Azure Badge](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-
 - 💻 <b>Programming Languages</b>: 
-  <a href="https://www.typescriptlang.org/"> TypeScript<a/>,
-  <a href="https://www.javascript.com/"> JavaScript<a/>,
-  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"> Java<a/>.
-  <a href="https://en.wikipedia.org/wiki/SQL"> SQL<a/>.
-- 💻 <b>Front-End</b>: 
-  <a href="https://pt-br.reactjs.org//"> ReactJS<a/>, 
-  <a href="https://redux.js.org/"> Redux<a/>, 
-  <a href="https://graphql.org/"> GraphQL<a/>,
-  <a href="https://jestjs.io/"> Jest<a/>.
-- 💻 <b>Back-End</b>: 
-  <a href="https://nodejs.org/en/"> Node.js<a/>,
-  <a href="https://jestjs.io/"> Jest<a/>,
-  <a href="https://graphql.org/"> GraphQL<a/>,
-  <a href="https://spring.io/projects/spring-boot"> Spring Boot<a/>.
-- 💻 <b>Mobile</b>:
-  <a href="https://reactnative.dev///"> React Native<a/>,
-  <a href="https://redux.js.org/"> Redux<a/>.
-- :gear: <b>Cloud</b>: 
-  <a href="https://www.docker.com/"> Docker<a/>,
-  <a href="https://aws.amazon.com/pt/s3/"> Amazon S3<a/>,
-  <a href="https://aws.amazon.com/pt/ses/"> Amazon SES<a/>.
-- 🗄️ <b>Databases:</b>
-  <a href="https://www.postgresql.org/"> PostgreSQL<a/>,
-  <a href="https://www.mongodb.com/"> MongoDB<a/>,
-  <a href="https://redis.io/"> Redis<a/>,
-  <a href="https://www.oracle.com/database/technologies/112010-win64soft.html"> Oracle 11g<a/>.
+    </br>
+  <a href="https://www.typescriptlang.org/"> ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=blue)<a/>
+  <a href="https://www.javascript.com/"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow)<a/>
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"> ![Java Badge](https://img.shields.io/badge/-Java-c21325?style=flat&logo=java&logoColor=white)<a/>
     
-- :books: <b>What i'm studying?</b> 
-  <a href="https://nextjs.org/">NextJS<a/>.
+- 💻 <b>Front-End</b>: 
+    </br>
+  <a href="https://pt-br.reactjs.org//"> ![React Badge](https://img.shields.io/badge/-React-black?style=black&logo=react&logoColor=61DAFB)<a/> 
+  <a href="https://redux.js.org/"> ![Redux Badge](https://img.shields.io/badge/-Redux-4C35E3?&style=flat&logo=redux&logoColor=white)<a/>
+  <a href="https://graphql.org/"> ![GraphQL Badge](https://img.shields.io/badge/-GraphQL-4C35E3?style=flat&logo=graphql&logoColor=white)<a/>
+  <a href="https://jestjs.io/"> ![Jest Badge](https://img.shields.io/badge/-Jest-c21325?style=flat&logo=jest&logoColor=white)<a/>
+    
+- 💻 <b>Back-End</b>: 
+    </br>
+  <a href="https://nodejs.org/en/">![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)<a/>
+  <a href="https://jestjs.io/"> ![Jest Badge](https://img.shields.io/badge/-Jest-c21325?style=flat&logo=jest&logoColor=white)<a/>
+  <a href="https://graphql.org/"> ![GraphQL Badge](https://img.shields.io/badge/-GraphQL-4C35E3?style=flat&logo=graphql&logoColor=white)<a/>
+  <a href="https://spring.io/projects/spring-boot">![Spring Badge](https://img.shields.io/badge/-SpringBoot-339933?style=flat&logo=spring&logoColor=white)<a/>
+    
+- 💻 <b>Mobile</b>:
+    </br>
+  <a href="https://reactnative.dev///"> ![React Native Badge](https://img.shields.io/badge/-React_Native-black?&style=flat&logo=react&logoColor=61DAFB)<a/>
+  <a href="https://expo.io/"> ![Expo Badge](https://img.shields.io/badge/-Expo-4C35E3?&style=flat&logo=expo&logoColor=white)<a/>
+  <a href="https://redux.js.org/"> ![Redux Badge](https://img.shields.io/badge/-Redux-4C35E3?&style=flat&logo=redux&logoColor=white)<a/>
+    
+- :gear: <b>Cloud</b>: 
+    </br>
+  <a href="https://www.docker.com/"> ![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white)<a/>
+  <a href="https://aws.amazon.com/pt/s3/"> ![Amazon Badge](https://img.shields.io/badge/-AWS-yellow?style=flat&logo=amazon&logoColor=white)<a/>
+    
+- 🗄️ <b>Databases:</b>
+    </br>
+  <a href="https://www.postgresql.org/"> ![PostgreSQL Badge](https://img.shields.io/badge/-PostgresQL-blue?style=flat&logo=postgresql&logoColor=white)<a/>
+  <a href="https://www.postgresql.org/"> ![SQL Server Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-blue?style=flat&logo=microsoft)<a/>
+  <a href="https://www.mongodb.com/"> ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-339933?style=flat&logo=mongodb&logoColor=white)<a/>
+  <a href="https://redis.io/"> ![Redis Badge](https://img.shields.io/badge/-Redis-c21325?style=flat&logo=redis&logoColor=white)<a/>
+  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads"> ![Oracle Badge](https://img.shields.io/badge/-Oracle11g-c21325?style=flat&logo=oracle&logoColor=white)<a/>
