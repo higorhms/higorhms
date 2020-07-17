@@ -7,7 +7,8 @@
 
 #### Hi! I'm a Full-Stack Developer, below are some technologies I'm used to work with. Take a look!
 
-![Javascript Badge](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript&logoColor=yellow)
+![Javascript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
+![Javascript Badge](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=blue)
 ![React Badge](https://img.shields.io/badge/-React-black?style=black&logo=react&logoColor=61DAFB)
 ![React Native Badge](https://img.shields.io/badge/-React_Native-black?&style=flat&logo=react&logoColor=61DAFB)
 ![Expo Badge](https://img.shields.io/badge/-Expo-4C35E3?&style=flat&logo=expo&logoColor=white)
