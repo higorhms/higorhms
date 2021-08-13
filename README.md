@@ -47,7 +47,7 @@
   <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads"> ![Oracle Badge](https://img.shields.io/badge/-Oracle11g-black?style=flat&logo=oracle&logoColor=c21325)<a/>
       
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorhms&langs_count=8" alt="toplangs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorhms&langs_count=3" alt="toplangs" />
 </p>
       
 <p align="center">
