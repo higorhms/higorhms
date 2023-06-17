@@ -1,6 +1,7 @@
 ## Higor Martins
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=higorhms&label=Profile%20views&color=0e75b6&style=flat" alt="higorhms" /> </p>
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/higorhms)](https://github.com/higorhms)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higormartinsdasilva/)](https://www.linkedin.com/in/higormartinsdasilva/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522981658776&text=Olá!)](https://api.whatsapp.com/send?phone=5522981658776&text=Olá!)
