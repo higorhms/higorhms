@@ -7,13 +7,11 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522981658776&text=Olá!)](https://api.whatsapp.com/send?phone=5522981658776&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:higor_hms@outlook.com)](mailto:higor_hms@outlook.com)
 
-#### Hi! I'm a Full-Stack Developer, below are some technologies I'm used to work with. Take a look!
-
 - 💻 <b>Programming Languages</b>: 
     </br>
   <a href="https://www.typescriptlang.org/"> ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=blue)<a/>
   <a href="https://www.javascript.com/"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow)<a/>
-  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"> ![Java Badge](https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=c21325)<a/>
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"> ![Java Badge](https://img.shields.io/badge/Java-black?style=flat&logo=openjdk&logoColor=white)<a/>
     
 - 💻 <b>Front-End</b>: 
     </br>
