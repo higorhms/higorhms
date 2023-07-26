@@ -4,7 +4,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/higorhms)](https://github.com/higorhms)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higormartinsdasilva/)](https://www.linkedin.com/in/higormartinsdasilva/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522981658776&text=Olá!)](https://api.whatsapp.com/send?phone=5522981658776&text=Olá!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+6412339209&text=Olá!)](https://api.whatsapp.com/send?phone=5522981658776&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:higor_hms@outlook.com)](mailto:higor_hms@outlook.com)
 
 - 💻 <b>Programming Languages</b>: 
