@@ -1,4 +1,4 @@
-## Higor Martins
+## Higor
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=higorhms&label=Profile%20views&color=0e75b6&style=flat" alt="higorhms" /> </p>
 
